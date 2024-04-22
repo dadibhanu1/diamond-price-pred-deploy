@@ -30,6 +30,7 @@ jupyterlab_pygments==0.3.0
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib-inline==0.1.7
+matplotlib == 3.8.3
 mdurl==0.1.2
 mistune==3.0.2
 nbclient==0.10.0
